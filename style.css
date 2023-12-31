@@ -117,10 +117,10 @@ header{
 
 .btn-left:hover{
    transform: scale(1.2);
-   & img{
-      transform: scale(1.2);
-   }
+  
    
+      background-color: #521722
+
 }
 .principal-grid-container{
    width: 100%;
